@@ -34,9 +34,9 @@ export function Navbar() {
             <Shield className="w-4 h-4 text-white" />
           </div>
           <span className="text-lg font-bold text-gray-900 tracking-tight">
-            Reg
+            Reporting
             <span className="bg-gradient-to-r from-amber-500 to-amber-600 bg-clip-text text-transparent">
-              Flow
+              .BOT
             </span>
           </span>
         </a>
